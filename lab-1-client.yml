@@ -1,2 +1,4 @@
 testing: testingwhat
-testing: testingtwo
+ok: testingtwo
+testingthree: what
+configserver: lab-1-client
